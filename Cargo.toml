@@ -1,0 +1,7 @@
+[package]
+name = "euler_sum"
+version = "0.1.0"
+authors = ["lfordy200 <Lee_Fordyce@comcast.com>"]
+
+[dependencies]
+rand = "0.5"
